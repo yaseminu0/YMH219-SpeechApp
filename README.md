@@ -118,6 +118,11 @@ Uygulamaya ait ekran görüntüleri aşağıdaki alanlara eklenecektir.
 
 Bu proje; C# ile masaüstü uygulama geliştirme, nesne tabanlı programlama prensiplerini uygulama, kullanıcı arayüzü tasarlama ve servis sınıfları aracılığıyla Windows Speech teknolojilerini kullanma konularında pratik kazanmak amacıyla geliştirilmiştir.
 
+## Öğrenci Bilgileri
+
+- **Ad Soyad:** Yasemin Ubeyd
+- **Öğrenci Numarası:** 250541603
+
 ---
 
 Bu proje akademik amaçlarla geliştirilmiştir.
