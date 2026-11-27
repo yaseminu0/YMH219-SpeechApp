@@ -118,14 +118,6 @@ Uygulamaya ait ekran görüntüleri aşağıdaki alanlara eklenecektir.
 
 Bu proje; C# ile masaüstü uygulama geliştirme, nesne tabanlı programlama prensiplerini uygulama, kullanıcı arayüzü tasarlama ve servis sınıfları aracılığıyla Windows Speech teknolojilerini kullanma konularında pratik kazanmak amacıyla geliştirilmiştir.
 
-## Geliştirici
-
-- **Ad Soyad:** [Ad Soyad]
-- **Öğrenci Numarası:** [Öğrenci Numarası]
-- **Üniversite:** Fırat Üniversitesi
-- **Bölüm:** Yazılım Mühendisliği
-- **Ders:** Nesne Tabanlı Programlama (YMH219)
-
 ---
 
 Bu proje akademik amaçlarla geliştirilmiştir.
