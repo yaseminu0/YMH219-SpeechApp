@@ -105,12 +105,6 @@ Uygulamaya ait ekran görüntüleri aşağıdaki alanlara eklenecektir.
 ### Genel Bakış
 ![Genel Bakış](Screenshots/dashboard.png)
 
-### Metinden Konuşmaya
-![Text-to-Speech](Screenshots/text-to-speech.png)
-
-### Konuşmadan Metne
-![Speech-to-Text](Screenshots/speech-to-text.png)
-
 ## Bilinen Sınırlamalar
 
 - Speech-to-Text özelliği, Windows sisteminde yüklü ve kullanılabilir konuşma tanıma motorlarına bağlıdır.
